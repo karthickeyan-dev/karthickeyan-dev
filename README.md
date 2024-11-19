@@ -18,7 +18,7 @@ Here’s a selection of my personal projects showcasing my expertise in front-en
 
 | Project Name | Description | Technologies | Live Demo | GitHub Repo |
 |--------------|-------------|--------------|-----------|-------------|
-| **Omnifood** | Responsive food delivery website featuring meal plans, customer testimonials, and a sign up form, all optimized for a seamless experience on any device. | HTML, CSS, Javascript | [Live Demo](https://karthic-omnifood.netlify.app/) | [GitHub Repo](https://github.com/karthickeyan-dev/Omnifood) |
+| **Omnifood** | Responsive food delivery website featuring meal plans, customer testimonials, and a sign up form, all optimized for a seamless experience on any device. | HTML, CSS, Javascript | [Live Demo]([https://karthic-omnifood.netlify.app/](https://omnifood-karthic.netlify.app/)) | [GitHub Repo](https://github.com/karthickeyan-dev/Omnifood) |
 ---
 
 ## 🤝 Let's Connect:
