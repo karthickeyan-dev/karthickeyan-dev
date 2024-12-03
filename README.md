@@ -22,7 +22,7 @@ Here’s a selection of my personal projects showcasing my expertise in front-en
 ---
 
 ## 🤝 Let's Connect:
-- **LinkedIn**: [Karthickeyan J](https://linkedin.com/in/karthickeyan-j-03086a335)
+- **LinkedIn**: [Karthickeyan J](https://www.linkedin.com/in/karthickeyan-dev/)
 - **Email**: [jkarthickeyan24@gmail.com](mailto:jkarthickeyan24@gmail.com)
 - **Portfolio Website**: 
 
