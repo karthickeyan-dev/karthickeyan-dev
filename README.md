@@ -1,13 +1,13 @@
 # Hi, I'm Karthic!  👋
 
-I'm a passionate **front-end developer** and **Webflow expert**, focused on creating responsive and user-friendly websites. I specialize in building modern, clean designs that help businesses enhance their online presence. My goal is to continuously improve my skills in **HTML**, **CSS**, **JavaScript**, and other web technologies while delivering high-quality projects for my clients.
+I'm a passionate **front-end developer** focused on creating responsive and user-friendly websites. I specialize in building modern, clean designs that help businesses enhance their online presence. My goal is to continuously improve my skills in **HTML**, **CSS**, **JavaScript**, and other web technologies while delivering high-quality projects for my clients.
 
 ---
 
 ## 🚀 Skills and Technologies:
 - **Languages**: HTML5, CSS3, JavaScript
 - **Frameworks & Libraries**: Tailwind CSS, React
-- **Tools**: Webflow, Git, GitHub
+- **Tools**: Git, GitHub
 - **Design**: Figma
 - **Other**: Responsive Web Design, SEO Optimization, Google Analytics
 
