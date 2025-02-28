@@ -1,31 +1,14 @@
-# Hi, I'm Karthic!  👋
+<h1 align="center">Hi 👋, I'm Karthickeyan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a passionate **front-end developer** focused on creating responsive and user-friendly websites. I specialize in building modern, clean designs that help businesses enhance their online presence. My goal is to continuously improve my skills in **HTML**, **CSS**, **JavaScript**, and other web technologies while delivering high-quality projects for my clients.
+- 👨‍💻 All of my projects are available at [https://github.com/karthickeyan-dev?tab=repositories](https://github.com/karthickeyan-dev?tab=repositories)
 
----
+- 📫 How to reach me **jkarthickeyan24@gmail.com**
 
-## 🚀 Skills and Technologies:
-- **Languages**: HTML5, CSS3, JavaScript
-- **Frameworks & Libraries**: Tailwind CSS, React
-- **Tools**: Git, GitHub
-- **Design**: Figma
-- **Other**: Responsive Web Design, SEO Optimization, Google Analytics
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karthickeyan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthickeyan-dev" height="30" width="40" /></a>
+</p>
 
----
-
-## 🌟 Notable Projects:
-Here’s a selection of my personal projects showcasing my expertise in front-end development and Webflow design.
-
-| Project Name | Description | Technologies | Live Demo | GitHub Repo |
-|--------------|-------------|--------------|-----------|-------------|
-| **Omnifood** | Responsive food delivery website featuring meal plans, customer testimonials, and a sign up form, all optimized for a seamless experience on any device. | HTML, CSS, Javascript | [Live Demo](https://omnifood-karthic.netlify.app/) | [GitHub Repo](https://github.com/karthickeyan-dev/Omnifood) |
----
-
-## 🤝 Let's Connect:
-- **LinkedIn**: [Karthickeyan J](https://www.linkedin.com/in/karthickeyan-dev/)
-- **Email**: [jkarthickeyan24@gmail.com](mailto:jkarthickeyan24@gmail.com)
-- **Portfolio Website**: 
-
----
-
-Feel free to explore my projects and reach out if you'd like to collaborate on any exciting ideas!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
